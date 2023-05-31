@@ -1,10 +1,10 @@
 ## <img align="center" alt="hi" title="Hi" height="30" src="https://user-images.githubusercontent.com/61606745/228703347-bd1b2b24-123c-4e21-8a33-5a8debf250ac.png"> Olá! Eu sou Alexandre Salvador!
 
 <div>
-  <a href="https://github.com/lucas-leoni">
+  <a href="https://github.com/alexandresalvador">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandresalvador&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
   </a>
-  <a href="https://github.com/lucas-leoni">
+  <a href="https://github.com/alexandresalvador">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-leoni&layout=compact&langs_count=7&theme=dracula">
   </a>
 </div>
